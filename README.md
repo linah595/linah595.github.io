@@ -1,2 +1,3 @@
 # odin-recipes
-this project was created using html
+this is my first project using html
+showcasing tasty recipes
